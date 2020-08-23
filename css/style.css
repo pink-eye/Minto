@@ -299,14 +299,13 @@
   overflow: scroll;
 }
 
-@media (max-width: 767px) {
-  .header-menu_active {
-    top: 0;
-    visibility: visible;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-  }
+.header-menu_active {
+  top: 0;
+  visibility: visible;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
+
 
 .header-menu__link {
   position: relative;
