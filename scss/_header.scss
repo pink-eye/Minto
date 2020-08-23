@@ -232,13 +232,12 @@
 
 	overflow: scroll;
 
-	@media (max-width: 767px) {
-		&_active {
-			top: 0;
-			visibility: visible;
-			transition: 0.3s;
-		}
+	&_active {
+		top: 0;
+		visibility: visible;
+		transition: 0.3s;
 	}
+
 	
 	&__link {
 		position: relative;
