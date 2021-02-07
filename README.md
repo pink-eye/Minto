@@ -1,1 +1,1 @@
-# minto.github.io
+# Minto
